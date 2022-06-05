@@ -1,7 +1,3 @@
-# Assignment 1
-
-### Name    : Aryan Agrawal
-### Roll No.: 170101013
 
 
 ## In the directory
